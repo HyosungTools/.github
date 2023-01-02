@@ -4,6 +4,8 @@ General purpose tools for Hyosung customers.
 ## Overview For Users
 These are value-add tools to make your experience with Hyosung better. 
 
+1. [splogparser](https://github.com/HyosungTools/splogparser) - parses ATM log files into an Excel spreadsheet. 
+
 ## Overview For Contributors
 The instructions below will describe how you can contribute.
 
