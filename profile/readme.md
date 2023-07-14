@@ -20,10 +20,8 @@ Utility to unzip, merge and present ATM logs as as number of worksheets in an Ex
 You *must* have Excel 2016 installed on the workstation you plan to run splogparser. 
 
 ### Accessing the Release
-On the right hand side you will see the link to [Releases](https://github.com/HyosungTools/splogparser/releases). Select the link to navigate to this page. 
-
-For the latest release, scroll down to view the Assets of the Release; select the `release.zip` to download the release. 
-
+The release is packaged as a zip file. To access this release contact david.macaskill@nhausa.com. 
+ 
 ### Install and Run
 The utility is a console app; there is no install. Its enough to unzip the files into a folder (e.g. `C:\Work_Tools\splogparser`).
 
